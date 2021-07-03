@@ -8,7 +8,7 @@ const CONFIG = {
     btnNo: 'Ko cho ',
     question:'Ghi cái  địa chỉ ra đây  😂',
     btnReply: 'Gửi luôn ',
-    reply: 'Ai cho ghi mà ghi 😂',
+    reply: 'Ai cho ghi mà ghi :))))))',
     mess: 'Cay ko 😂',
     messDesc: 'Hahaha 😂',
     btnAccept: 'Chờ đấy ',
