@@ -6,7 +6,7 @@ const CONFIG = {
     desc: 'Mày chờ đấy  ',
     btnYes: 'Ko dám',
     btnNo: 'Xúc m luôn ',
-    question:'Cho cái địa chỉ 😂',
+    question:'Cho xin cái địa chỉ 😂',
     btnReply: 'Gửi luôn ',
     reply: 'Ai cho ghi mà ghi 😂',
     mess: 'Sợ r à 😂',
