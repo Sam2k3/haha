@@ -1,9 +1,9 @@
 const CONFIG = {
     introTitle: 'Đánh nhau ko 😂',
-    introDesc: `Ngon bấm Zô 😂 :3`,
+    introDesc: `Ngon bấm Zô 😂 `,
     btnIntro: 'OK',
-    title: 'À m ghê bấm Zô đây luôn ',
-    desc: 'M chờ đấy  ',
+    title: 'À mày ghê đấy  bấm Zô đây luôn ',
+    desc: 'Mày chờ đấy  ',
     btnYes: 'Ko dám',
     btnNo: 'Xúc m luôn ',
     question:'Cho cái địa chỉ 😂',
