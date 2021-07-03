@@ -5,7 +5,7 @@ const CONFIG = {
     title: 'À mày ghê đấy  bấm Zô đây luôn ',
     desc: 'Cho xin cái địa chỉ 😂  ',
     btnYes: 'Cho luôn sợ j m',
-    btnNo: 'Ko dám ',
+    btnNo: 'Ko cho ',
     question:'Ghi cái  địa chỉ ra đây  😂',
     btnReply: 'Gửi luôn ',
     reply: 'Ai cho ghi mà ghi 😂',
