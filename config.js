@@ -1,7 +1,7 @@
 const CONFIG = {
     introTitle: 'Đánh nhau ko 😂',
     introDesc: `Ngon bấm Zô 😂 :3`,
-    btnIntro: 'hihi',
+    btnIntro: 'OK',
     title: 'À m ghê bấm Zô đây luôn ',
     desc: 'M chờ đấy  ',
     btnYes: 'Ko dám',
